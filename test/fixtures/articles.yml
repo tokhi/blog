@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+welcome_to_rails:
+  user: shafi
+  title: "welcome to rails"
+  location: "Herat"
+  excerpt: "blabla"
+  body: "Rails is such a nice web framework written in Ruby"
+  published_at: <%= 3.days.ago %>
